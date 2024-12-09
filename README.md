@@ -1,4 +1,4 @@
-# Projeto Huddle Base do Frontend Mentor e DEVQUEST(REGIZ USANDO REACT.JS)
+# Projeto Huddle Base do Frontend Mentor e DEVQUEST(REFIZ USANDO REACT.JS)
 Refiz esse projeto todo em React.js utilizando VITE, que foi o primeiro projeto do DevQuest.
 
 ## Ferramentas Utilizadas
