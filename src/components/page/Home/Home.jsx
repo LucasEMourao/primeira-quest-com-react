@@ -1,6 +1,6 @@
-import logo from "../../assets/logo.svg";
-import mockups from "../../assets/illustration-mockups.svg";
-import { Body, Header, Main, Info, Footer } from "./style.jsx";
+import logo from "../../../assets/imagens/logo.svg";
+import mockups from "../../../assets/imagens/illustration-mockups.svg";
+import { Body, Header, Main, Info, Footer } from "./style";
 
 const Page = () => {
   return (

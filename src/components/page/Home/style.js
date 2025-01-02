@@ -1,7 +1,7 @@
 import styled from "styled-components";
-import bgdesktop from "../../assets/bg-desktop.svg";
-import bgmobile from "../../assets/bg-mobile.svg";
-import breakpoints from "../../styles/BreakPoints";
+import bgdesktop from "../../../assets/imagens/bg-desktop.svg";
+import bgmobile from "../../../assets/imagens/bg-mobile.svg"
+import breakpoints from "../../../styles/BreakPoints";
 
 export const Body = styled.div`
   background: url(${bgdesktop}) no-repeat;
